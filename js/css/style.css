@@ -1,0 +1,7 @@
+table tr:nth-child(even) {
+    background: #F2F2F2 ;
+}
+button {
+    background: #50AF50 ;
+    color: white;
+}
